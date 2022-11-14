@@ -1,5 +1,5 @@
 local currentCameraIndex = 0
-local createdCamera = 0
+local createdCamera = 1
 
 local function GetCurrentTime()
     local hours = GetClockHours()
